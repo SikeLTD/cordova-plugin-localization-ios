@@ -1,0 +1,25 @@
+{
+  "name": "cf-cordova-plugin-localization-ios",
+  "version": "0.0.1",
+  "description": "A label translate example",
+  "cordova": {
+    "id": "cf-cordova-plugin-localization-ios",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SikeLTD/cordova-plugin-localization-ios.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Sike Studio",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SikeLTD/cordova-plugin-localization-ios/issues"
+  },
+  "homepage": "https://github.com/SikeLTD/cordova-plugin-localization-ios#readme"
+}
